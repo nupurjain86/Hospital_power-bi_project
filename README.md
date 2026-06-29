@@ -72,8 +72,17 @@ Compares the number of patients based on treatment cost levels.
 
 # Power BI Dashboard
 
-  You can download the Power BI project file here:
+  You can download the Power BI project file here: hospital powerbi dashboard.pbix
 
 # Project Dashboard View
 
-below is the screenshot of Myntra Brand Dashboard:
+below is the screenshot of Hospital performance dashboard:
+<img width="610" height="343" alt="Screenshot 2026-06-29 184942" src="https://github.com/user-attachments/assets/bac16445-52fb-4de3-9a3e-03ee80b81023" />
+
+# Applications used
+Power BI- For data visualization and dashboard creation.
+Excel- For data preprocessing and data cleaning.
+Google- data was downloaded fron keegle.
+
+# Conclusion
+This power bi project helps businessman make data driven decisions. it also helps in analyse the data.
